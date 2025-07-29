@@ -1,23 +1,23 @@
 
-# 🌿 Calmly – Minimalist Meditation & Sleep Sounds App  
+#  Calmly – Minimalist Meditation & Sleep Sounds App  
 
 **Calmly** is a clean, minimalist Android app designed to help users relax and sleep better by listening to ambient sounds.  
 This project was built as part of an internship assignment and demonstrates strong Android development skills using **Kotlin, MVVM architecture, Foreground Services, and Material UI design**.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎧 **Meditation Tab** – Forest, Rain, Ocean, and Campfire ambient sounds  
-- 🌙 **Sleep Tab** – White Noise, Lullaby, Fan, Deep Hum & more  
-- 🔁 **Looped playback** – High-quality sounds play seamlessly in the background  
-- 🛑 **One sound at a time** – Automatically stops the previous sound when a new one starts  
-- 🔔 **Foreground Media Service** – Persistent notification with **Play/Pause/Stop** controls  
-- 🎨 **Minimal Material Design UI** – Clean, clutter-free user experience  
+-  **Meditation Tab** – Forest, Rain, Ocean, and Campfire ambient sounds  
+-  **Sleep Tab** – White Noise, Lullaby, Fan, Deep Hum & more  
+-  **Looped playback** – High-quality sounds play seamlessly in the background  
+-  **One sound at a time** – Automatically stops the previous sound when a new one starts  
+-  **Foreground Media Service** – Persistent notification with **Play/Pause/Stop** controls  
+-  **Minimal Material Design UI** – Clean, clutter-free user experience  
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/meditation_tab.png" width="30%" />
@@ -27,7 +27,7 @@ This project was built as part of an internship assignment and demonstrates stro
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - **Language:** Kotlin (100%)
 - **Architecture:** MVVM (ViewModel + LiveData/StateFlow + Repository)
@@ -38,7 +38,7 @@ This project was built as part of an internship assignment and demonstrates stro
 
 ---
 
-## 📂 Project Structure (MVVM)
+##  Project Structure (MVVM)
 
 ```
 
@@ -52,9 +52,7 @@ com.mehru.calmly/
 
 ````
 
----
-
-## ⚡ How It Works
+##  How It Works
 
 1. User selects a sound → `SoundViewModel` triggers **PlaybackRepository**  
 2. `PlaybackRepository` communicates with **Foreground MediaPlaybackService**  
@@ -64,7 +62,7 @@ com.mehru.calmly/
 
 ---
 
-### 👨‍💻 Developed by
+###  Developed by
 
 **Meharban Alam**
-📧 [meharban@example.com](mailto:meharban@example.com) | [LinkedIn](#) | [GitHub](#)
+ [meharban@example.com](mailto:meharban@example.com) | [LinkedIn](#) | [GitHub](#)
