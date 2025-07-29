@@ -2,7 +2,6 @@
 #  Calmly – Minimalist Meditation & Sleep Sounds App  
 
 **Calmly** is a clean, minimalist Android app designed to help users relax and sleep better by listening to ambient sounds.  
-This project was built as part of an internship assignment and demonstrates strong Android development skills using **Kotlin, MVVM architecture, Foreground Services, and Material UI design**.
 
 ---
 
